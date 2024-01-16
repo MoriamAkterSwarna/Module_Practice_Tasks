@@ -1,4 +1,4 @@
-### Task-6 (Module 20-7)
+### Task-1 (Module 20-7)
 
 Define a function that squares each element of an array using a loop
 

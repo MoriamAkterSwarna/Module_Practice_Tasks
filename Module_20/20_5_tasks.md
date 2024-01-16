@@ -1,4 +1,4 @@
-### Task-3 (Module 20-5)
+### Task-1 (Module 20-5)
 
 write a function that will take a number as parameter and start a count down when it will reach 1 it will show a message
 
@@ -35,7 +35,7 @@ write a function that will take a number as parameter and start a count down whe
 
 ---
 
-### Task-4 (Module 20-5)
+### Task-2 (Module 20-5)
 
 write a function to check if a number is prime or not.
 
